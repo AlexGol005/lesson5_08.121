@@ -4,4 +4,4 @@ def my_sleep():
 
 
 if __name__ == '__main__ ':
-    t0 = 000
+    t0 = 00000000
